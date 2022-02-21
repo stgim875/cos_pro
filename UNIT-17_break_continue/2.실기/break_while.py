@@ -1,4 +1,4 @@
-# UNIT 17.break와 contiune로 반복문 제어하기
+# 17.1 break로 반복문 끝내기
 
 i = 0
 while True:              # 무한 루프
